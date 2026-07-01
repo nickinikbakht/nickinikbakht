@@ -8,11 +8,6 @@ Machine Learning Researcher specializing in <strong>scientific machine learning,
 Currently an AI Researcher at <strong>Arico</strong>, developing learning-based methods for industrial optimization and predictive maintenance.
 </p>
 
-<p align="left">
-🌐 <a href="https://nickinikbakht.netlify.app">Website</a> &nbsp;|&nbsp;
-💼 <a href="https://www.linkedin.com/in/fatemeh-nikbakht-nasrabadi">LinkedIn</a>
-</p>
-
 <br>
 
 ## Research Interests

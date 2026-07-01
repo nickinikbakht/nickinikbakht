@@ -9,7 +9,6 @@ Currently an AI Researcher at <strong>Arico</strong>, developing learning-based 
 </p>
 
 <p align="left">
-📍 Isfahan, Iran &nbsp;|&nbsp;
 🌐 <a href="https://nickinikbakht.netlify.app">Website</a> &nbsp;|&nbsp;
 💼 <a href="https://www.linkedin.com/in/fatemeh-nikbakht-nasrabadi">LinkedIn</a>
 </p>

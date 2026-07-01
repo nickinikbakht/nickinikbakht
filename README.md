@@ -54,4 +54,3 @@ Developed machine learning models for fault detection and Remaining Useful Life 
 
 - Website: https://nickinikbakht.netlify.app
 - LinkedIn: https://www.linkedin.com/in/fatemeh-nikbakht-nasrabadi
-- GitHub: https://github.com/nickinikbakht
